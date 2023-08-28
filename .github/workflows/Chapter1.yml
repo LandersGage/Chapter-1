@@ -1,0 +1,10 @@
+console.log("Gage Landers");
+console.log("2002");
+console.log(2002);
+console.log("Gage Landers (2002)");
+console.log("Gage", " Landers ", "(2002)");
+console.log("Gage");
+console.log("Landers ");
+console.log("(2002)");
+console.log("Gage" + " Landers" + "(2002)");
+console.log("Gage " + " Landers " + "(2002)");
